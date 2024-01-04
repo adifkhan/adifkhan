@@ -35,8 +35,8 @@
 <h5 align="left">Others:</h5>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adifkhan&show_icons=true&locale=en&layout=compact" alt="adifkhan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adifkhan&show_icons=true&locale=en&layout=compact" alt="adifkhan" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=adifkhan&show_icons=true&locale=en" alt="adifkhan" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=adifkhan&show_icons=true&locale=en" alt="adifkhan" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adifkhan&" alt="adifkhan" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adifkhan&" alt="adifkhan" />
