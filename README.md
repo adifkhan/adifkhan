@@ -12,7 +12,7 @@
 
 - 📄 See My [Resume](https://drive.google.com/drive/folders/1zgde61gIEtW7R6rVyM2x81Juss24Ksk6?usp=sharing)
 
-- ⚡ Fun fact **I do coding... 🤗🤗**
+- ⚡ Fun fact?  **I do coding... 🤗🤗**
 
 
 
