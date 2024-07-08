@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adifkhan&label=Profile%20views&color=fc6b03&style=flat" alt="adifkhan" /> </p>
 
-- 💬 Ask me about **JavaScript, React, NodeJS, ExpressJs**
+- 💬 Ask me about **JavaScript, TypeScript, React, NextJs, NodeJS, ExpressJs, MongoDb, Mongoose**
 
 - 📫 Reach me at **adifkhanbd@gmail.com**
 
