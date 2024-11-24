@@ -1,14 +1,16 @@
 ![MasterHead](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)
 <h1 align="center">Hi there, It's Maynul Islam Adif</h1>
-<h3 align="center">An enthusiastic MERN stack developer dedicated to crafting seamless web experiences</h3>
+<h3 align="center">An enthusiastic Full Stack Developer dedicated to crafting seamless web experiences</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adifkhan&label=Profile%20views&color=fc6b03&style=flat" alt="adifkhan" /> </p>
 
-- 💬 Ask me about **JavaScript, TypeScript, React, NextJs, NodeJS, ExpressJs, MongoDb, Mongoose**
+- 💬 Ask me about **JavaScript, TypeScript, React, NextJs, NodeJS, ExpressJs, MongoDb, Mongoose, MySQL**
 
 - 📫 Reach me at **adifkhanbd@gmail.com**
+
+- 💻 Explore my [Portfolio](https://maynulislamadif.vercel.app/) 
 
 - 📄 See My [Resume](https://drive.google.com/drive/folders/1zgde61gIEtW7R6rVyM2x81Juss24Ksk6?usp=sharing)
 
