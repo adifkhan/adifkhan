@@ -2,11 +2,12 @@
 <h1 align="center">Hi there, It's Maynul Islam Adif</h1>
 <h3 align="center">An enthusiastic Full Stack Developer dedicated to crafting seamless web experiences</h3> <br/>
 
-<p>
-  <img align="left" src="https://img.shields.io/github/followers/adifkhan?logo=github&style=for-the-badge&color=de7716&labelColor=1c1917" />
-  <img align="right" src="https://komarev.com/ghpvc/?username=adifkhan&label=Profile%20views&color=fc6b03&style=flat" alt="profile views" /> 
+<p align="center">
+<!-- <img src="https://komarev.com/ghpvc/?username=adifkhan&logo=github&style=for-the-badge&color=de7716&labelColor=1c1917"/> &nbsp; -->
+<img src="https://img.shields.io/badge/Profile%20Views-653-orange?style=for-the-badge&logo=github&labelColor=1c1917"/> &nbsp;
+<img src="https://img.shields.io/github/followers/adifkhan?logo=github&style=for-the-badge&color=de7716&labelColor=1c1917"/> &nbsp;
+<img src="https://img.shields.io/github/stars/adifkhan?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&color=de7716&labelColor=1c1917"/>
 </p>
-<br/>
 <br/>
 
 <p>
