@@ -41,6 +41,9 @@
 <h5 align="center">Other Languages, Tools & Platforms</h5>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="postman" width="40" height="40"/> <img src="https://static.vecteezy.com/system/resources/previews/014/018/577/original/ms-office-logo-on-transparent-background-free-vector.jpg" alt="msoffice" width="40" height="40"/> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg" alt="illustrator" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/120px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </p>
 
+
+<br/>
+<br/>
 <p > 
 <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adifkhan&layout=compact&theme=one_dark_pro"/>
 <img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=adifkhan&show_icons=true&theme=codeSTACKr"/>
@@ -50,10 +53,6 @@
 <p align="center">
 <img alt="Push Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adifkhan" />
 </p>
-
-
-
-
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 
