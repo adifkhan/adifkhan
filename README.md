@@ -1,5 +1,5 @@
 ![MasterHead](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)
-<h1 align="center">Hi there, It's Maynul Islam Adif</h1>
+<h1 align="center">Hi there, This is Maynul Islam Adif</h1>
 <h3 align="center">An enthusiastic Full Stack Developer dedicated to crafting seamless web experiences</h3> <br/>
 
 <p align="center">
