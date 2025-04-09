@@ -50,7 +50,7 @@
 </p>
 <br/>
 <br/>
-<p align="center">
+<p align="center" style="margin-top: 30px;">
 <img alt="Push Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adifkhan" />
 </p>
 
